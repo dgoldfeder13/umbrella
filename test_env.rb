@@ -1,5 +1,4 @@
 require "dotenv/load"
 
-
 pp ENV.fetch("GMAPS_KEY")
-pp ENV.fetch("openai_key")
+pp ENV.fetch("PIRATE_KEY")
